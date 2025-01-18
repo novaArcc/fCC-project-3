@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/novaArcc/fCC-project-3.git/static/css/main.22d7ff1b.css",
-    "main.js": "/novaArcc/fCC-project-3.git/static/js/main.b2314173.js",
-    "static/js/488.33abe268.chunk.js": "/novaArcc/fCC-project-3.git/static/js/488.33abe268.chunk.js",
-    "static/media/RP4_KICK_1.mp3": "/novaArcc/fCC-project-3.git/static/media/RP4_KICK_1.72881f4bf80d341da208.mp3",
-    "static/media/Heater-1.mp3": "/novaArcc/fCC-project-3.git/static/media/Heater-1.cb8d95b6caf027812d3b.mp3",
-    "static/media/Heater-2.mp3": "/novaArcc/fCC-project-3.git/static/media/Heater-2.4ed25e5b07da91b794d7.mp3",
-    "static/media/Heater-3.mp3": "/novaArcc/fCC-project-3.git/static/media/Heater-3.4c4d3fd017dfed721765.mp3",
-    "static/media/Heater-4_1.mp3": "/novaArcc/fCC-project-3.git/static/media/Heater-4_1.0c29815eb40bbe7d4d7b.mp3",
-    "static/media/Dsc_Oh.mp3": "/novaArcc/fCC-project-3.git/static/media/Dsc_Oh.5f33c02936f6ec6f8199.mp3",
-    "static/media/Heater-6.mp3": "/novaArcc/fCC-project-3.git/static/media/Heater-6.faf5d12a1a4a7ffacf09.mp3",
-    "static/media/Kick_n_Hat.mp3": "/novaArcc/fCC-project-3.git/static/media/Kick_n_Hat.6dc44dc15fca60d9d594.mp3",
-    "static/media/Cev_H2.mp3": "/novaArcc/fCC-project-3.git/static/media/Cev_H2.0b159bd307a31937b138.mp3",
-    "index.html": "/novaArcc/fCC-project-3.git/index.html",
-    "main.22d7ff1b.css.map": "/novaArcc/fCC-project-3.git/static/css/main.22d7ff1b.css.map",
-    "main.b2314173.js.map": "/novaArcc/fCC-project-3.git/static/js/main.b2314173.js.map",
-    "488.33abe268.chunk.js.map": "/novaArcc/fCC-project-3.git/static/js/488.33abe268.chunk.js.map"
+    "main.css": "/novaArcc.github.io/fcc-project-3/static/css/main.22d7ff1b.css",
+    "main.js": "/novaArcc.github.io/fcc-project-3/static/js/main.49763fac.js",
+    "static/js/488.33abe268.chunk.js": "/novaArcc.github.io/fcc-project-3/static/js/488.33abe268.chunk.js",
+    "static/media/RP4_KICK_1.mp3": "/novaArcc.github.io/fcc-project-3/static/media/RP4_KICK_1.72881f4bf80d341da208.mp3",
+    "static/media/Heater-1.mp3": "/novaArcc.github.io/fcc-project-3/static/media/Heater-1.cb8d95b6caf027812d3b.mp3",
+    "static/media/Heater-2.mp3": "/novaArcc.github.io/fcc-project-3/static/media/Heater-2.4ed25e5b07da91b794d7.mp3",
+    "static/media/Heater-3.mp3": "/novaArcc.github.io/fcc-project-3/static/media/Heater-3.4c4d3fd017dfed721765.mp3",
+    "static/media/Heater-4_1.mp3": "/novaArcc.github.io/fcc-project-3/static/media/Heater-4_1.0c29815eb40bbe7d4d7b.mp3",
+    "static/media/Dsc_Oh.mp3": "/novaArcc.github.io/fcc-project-3/static/media/Dsc_Oh.5f33c02936f6ec6f8199.mp3",
+    "static/media/Heater-6.mp3": "/novaArcc.github.io/fcc-project-3/static/media/Heater-6.faf5d12a1a4a7ffacf09.mp3",
+    "static/media/Kick_n_Hat.mp3": "/novaArcc.github.io/fcc-project-3/static/media/Kick_n_Hat.6dc44dc15fca60d9d594.mp3",
+    "static/media/Cev_H2.mp3": "/novaArcc.github.io/fcc-project-3/static/media/Cev_H2.0b159bd307a31937b138.mp3",
+    "index.html": "/novaArcc.github.io/fcc-project-3/index.html",
+    "main.22d7ff1b.css.map": "/novaArcc.github.io/fcc-project-3/static/css/main.22d7ff1b.css.map",
+    "main.49763fac.js.map": "/novaArcc.github.io/fcc-project-3/static/js/main.49763fac.js.map",
+    "488.33abe268.chunk.js.map": "/novaArcc.github.io/fcc-project-3/static/js/488.33abe268.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22d7ff1b.css",
-    "static/js/main.b2314173.js"
+    "static/js/main.49763fac.js"
   ]
 }
